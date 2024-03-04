@@ -17,6 +17,7 @@
   
       pip install flask_cors
       pip install flask
+      pip install transformers
     
   </li>
 </ul>
