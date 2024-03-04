@@ -18,7 +18,7 @@
       pip install flask_cors
       pip install flask
       pip install transformers
-  <li>masuk ke Direktori Chatbot-Website menggunakan printah Chatbot-Website lalu run menggunakan :
+  <li>Go to the Chatbot-Website Directory using the Chatbot-Website command then run using :
 
       flask run
   </li>
