@@ -4,3 +4,7 @@
 
 -----
 <h5>Author : Cognitive Class AI</h5>
+-----
+
+<h3>Setup</h3>
+<p>Install the dependencies following these steps :</p>
