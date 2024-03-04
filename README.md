@@ -1,4 +1,4 @@
-<h1 color="red">Create Your Own Chatbot Website with Open Source LLMs</h1>
+<h1>Create Your Own Chatbot Website with Open Source LLMs</h1>
 <h5>Nama : Fathul Arifin</h5>
 <h5>Program : IBM Advance AI</h5>
 
@@ -17,7 +17,7 @@
       pip install flask_cors
       pip install flask
       pip install transformers
-  <li>Go to the Chatbot-Website Directory using the Chatbot-Website command then run using :
+  <li>Go to the Chatbot-Website Directory using the cd Chatbot-Website command then run using :
 
       flask run
   </li>
