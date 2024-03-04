@@ -29,5 +29,7 @@
   </li>
 </ul>
 <h3>Image</h3>
-<img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda">
+<ul>
+  <li><img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda"></li>
+</ul>
 
