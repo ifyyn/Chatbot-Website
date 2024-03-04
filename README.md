@@ -13,11 +13,10 @@
       <li>Star this repository (top right corner)
 <>Code > Download ZIP > Open cmd/terminal in that location</li>
       <li>run this command : 
-        pip install flask
-        pip install flask_cors
       </li>
   
-     pip install flask_cors
+      pip install flask_cors
+      pip install flask
     
   </li>
 </ul>
