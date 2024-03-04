@@ -7,4 +7,12 @@
 -----
 
 <h3>Setup</h3>
-<p>Install the dependencies following these steps :</p>
+<ul>
+  <li>Install the dependencies following these steps :
+    <ul>
+      <li>Star this repository (top right corner)
+<>Code > Download ZIP > Open cmd/terminal in that location</li>
+  
+    </ul>
+  </li>
+</ul>
