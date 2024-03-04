@@ -22,5 +22,9 @@
 
       flask run
   </li>
+  <li>and don't forget to change the URL in the JavaScript file with your own port, and add the chatbot at the end of the URL. Example:
+  
+    http://127.0.0.1:5000/chatbot
+  </li>
   </li>
 </ul>
