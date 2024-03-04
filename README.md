@@ -29,5 +29,5 @@
   </li>
 </ul>
 <h3>Image</h3>
-![Screenshot from 2024-03-04 18-13-41](https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda)
+<img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda">
 
