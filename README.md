@@ -17,7 +17,7 @@
         pip install flask_cors
       </li>
   
-    </ul>
+     pip install flask_cors
     
   </li>
 </ul>
