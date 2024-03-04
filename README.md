@@ -32,7 +32,7 @@
   <li><img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda"></li>
   <li><img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/2476db6f-9e1b-43e4-aee9-8a1ad2514002"></li>
 </ul>
------
+
 <h1 align="center">Hi 👋, I'm Fathul Arifin</h1>
 <h2 align="center">🤓 I'am currently taking the IBM Academy Advance AI Independent Study in Infinite Learning 🤓</h2>
 
