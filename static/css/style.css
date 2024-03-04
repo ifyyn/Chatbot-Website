@@ -10,7 +10,7 @@ body {
   padding-left: 5em;
   padding-right: 5em;
   padding-top: 3em;
-
+  background: #000000;
   background-image: url("https://media.discordapp.net/attachments/993702831850786886/1117894163686510752/bgJC_copy.jpg");
   /* background-image: url("https://images.unsplash.com/photo-1591311337241-cecfd26f1da1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2thdGVib2FyZGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"); */
   background-repeat: no-repeat;
@@ -66,26 +66,36 @@ footer a {
 .chatbot {
   max-width: 100em;
   overflow: hidden;
+  margin-bottom: 30px;
 }
 
 .chat-header {
-  color: rgb(0, 0, 0);
+  color: #f2f2f2;
   padding: 10px;
 }
 
 .chat-header h1 {
   margin: 0;
-  margin-bottom: 10px;
   /* text-align: center; */
-  color: #000000;
+  color: #f2f2f2;
   
   /* Use a modern looking font */
   font-family: 'Roboto', sans-serif;
   font-size: 3em;
 }
-
+.chat-header button{
+  padding: 10px 12px;
+  border: 1px solid #f2f2f2;
+  text-transform: uppercase;
+  background: #000000;
+  color: #f2f2f2;
+  font-size: 20px;
+  margin: auto;
+  border-radius: 2px;
+}
 .header-sub-text {
   padding: 10px;
+  color: #0891B2;
 }
 
 .chat-header h5 {
@@ -93,7 +103,7 @@ footer a {
   text-align: center;
   margin: 0;
   text-align: center;
-  color: #333;
+  color: #0891B2;
 }
 select {
   display: inline-block;
