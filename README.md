@@ -13,6 +13,6 @@
       <li>Star this repository (top right corner)
 <>Code > Download ZIP > Open cmd/terminal in that location</li>
   
-    </ul>
+    
   </li>
 </ul>
