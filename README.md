@@ -31,5 +31,6 @@
 <h3>Image</h3>
 <ul>
   <li><img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/4c5b72b5-cae7-4f46-b817-da056fa1adda"></li>
+  <li><img src="https://github.com/ifyyn/Chatbot-Website/assets/77541419/2476db6f-9e1b-43e4-aee9-8a1ad2514002"></li>
 </ul>
 
